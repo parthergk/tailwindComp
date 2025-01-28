@@ -2,6 +2,8 @@
 
 This is a React-based dark and light theme comparison slider that allows users to interactively compare dark and light themes by dragging a vertical bar. The slider is designed to work with both mouse and touch events, making it suitable for desktop and mobile devices.
 
+![Screenshot Description](./public/img/screenshot.png)
+
 ## Features
 
 - **Interactive Slider**: Users can drag a vertical bar to compare two images side by side.
