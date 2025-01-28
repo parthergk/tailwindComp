@@ -19,8 +19,10 @@ To use this component in your project, follow these steps:
    npm install
    # or
    yarn install
-  ```bash
-  npm start
-  # or
-  yarn start
-#Open your browser and visit http://localhost:5173 to see the application in action.
+3. **Run the project:** using npm or yarn:
+   ```bash
+   npm install
+   # or
+   yarn install
+
+Open your browser and visit http://localhost:5173 to see the application in action.
