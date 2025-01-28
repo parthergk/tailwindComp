@@ -1,5 +1,5 @@
-# React + Vite
-Image Comparison Slider
+# Theme Comparison Slider
+
 This is a React-based dark nnd light theme comparison slider that allows users to interactively compare dark nnd light theme by dragging a vertical bar. The slider is designed to work with both mouse and touch events, making it suitable for desktop and mobile devices.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
